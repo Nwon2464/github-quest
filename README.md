@@ -25,6 +25,9 @@ to complete copy of someone's repo on my github, lets say tony's repo.
 to clone the repo that you forked down to my local computer
 (click clone or download and copy the url, in your terminal, set cd with empty files, and git clone url )
 
+
+2.5 check to see if everything works with npm install, then you are ready to make changes.
+
 3. git checkout -b add-new-index-js
 creating a new branch 
 
